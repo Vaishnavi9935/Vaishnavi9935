@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vaishnavi9935
 - 👀 I’m interested in ...intagram hacking
-- 🌱 I’m currently learning ...11ty
+- 🌱 I’m currently learning ...11th
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
